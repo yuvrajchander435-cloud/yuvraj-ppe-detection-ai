@@ -1,6 +1,6 @@
 import cv2
 
-video_path = "C:/PPE Detection/runs/detect/predict23/0.avi"
+video_path = "recordings\ppe_recording_20260520_122059.mp4"
 
 cap = cv2.VideoCapture(video_path)
 
